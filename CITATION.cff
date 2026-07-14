@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference the Joule Wars concept, please cite it as below."
+title: "Joule Wars — The AI Race for Energy Efficiency"
+abstract: >-
+  Joule Wars is a concept coined by Michał Piszczek describing the AI industry's shift from
+  competing on model capability toward competing on energy efficiency — who produces the most
+  useful intelligence per joule. It frames AI, semiconductors, cloud infrastructure, power
+  generation and geopolitics as a single economic system.
+type: dataset
+date-released: "2026-07-04"
+license: CC-BY-4.0
+url: "https://piszczek.pl/joule-wars"
+repository-code: "https://github.com/pich/joule-wars"
+keywords:
+  - Joule Wars
+  - intelligence per joule
+  - AI energy efficiency
+  - AI infrastructure economics
+  - energy-efficient AI
+authors:
+  - family-names: Piszczek
+    given-names: Michał
+    orcid: "https://orcid.org/0009-0000-5182-5756"
+    affiliation: Archdesk
+    website: "https://piszczek.pl"
