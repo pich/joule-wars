@@ -1,5 +1,7 @@
 # Joule Wars
 
+**English** | [中文](README.zh-CN.md)
+
 **The next AI race will not be won by the smartest models. It will be won by the most efficient ones.**
 
 Joule Wars is a concept coined by [Michał Piszczek](https://piszczek.pl/michal-piszczek): the
