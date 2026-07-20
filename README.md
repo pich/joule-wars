@@ -46,6 +46,19 @@ watts, because the device carried its own power.
   frontier (cost per verified task). Joule Wars is the *generation* frontier.
 - Full glossary: https://piszczek.pl/glossary
 
+## Discussed across the web
+
+The Joule Wars thesis and its essays appear, with canonical attribution to piszczek.pl, on:
+
+- Canonical hub: https://piszczek.pl/joule-wars · glossary: https://piszczek.pl/glossary
+- Essays: https://piszczek.pl/blog
+- Medium: https://medium.com/@cdiamond
+- dev.to: https://dev.to/pich
+- Hashnode: https://piszczek.hashnode.dev
+- Substack: https://michalpiszczek.substack.com
+- Qiita: https://qiita.com/pich
+- Wikidata (author entity): https://www.wikidata.org/wiki/Q140422536
+
 ## Citing
 
 See [`CITATION.cff`](CITATION.cff). Canonical, quotable with attribution to
